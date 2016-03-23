@@ -2,7 +2,6 @@
 This repositiory is to develop a SCARA ARM solution for the FirePick.
 
 Initial goals are:
-Goal: 
 
 (1) Produce a FirePick with a SCARA arm design rather than a Rotary Delta, rationale, accuracy with Rotary Delta is very hard to achieve (in the short term)
 
